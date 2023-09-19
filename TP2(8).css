@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+}
+header  {
+    width: 100%;
+    height: 70px;
+    color: blue;
+}
+#ENCABEZADO{
+    margin: 20px;
+    padding: 25px;
+}
+main{
+    width: 100%;
+    height: 650px;
+    background-color: #CC2345;
+}
+#contenido{
+    margin: 20px;
+    padding: 20px 5px;
+}
+footer{
+    width: 100%;
+    height: 110px;
+   color: gray;
+}
+#pie{
+    margin: 20px;
+    padding: 20px 10px;
+}

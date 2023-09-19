@@ -1,0 +1,18 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body {
+    margin: 0px;;
+}
+#rojo{
+    background-color: red;
+    border: 3px solid black ;
+}
+#amarillo{
+    background-color: yellow;
+    border: 3px solid black;
+}
+#verde{
+    background-color: green;
+   border: 3px solid black; 
+}

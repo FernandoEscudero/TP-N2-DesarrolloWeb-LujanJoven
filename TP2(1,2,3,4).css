@@ -1,0 +1,33 @@
+.encabezado1 {
+    color: green;
+}
+
+.parrafo1 {
+    color: pink;
+    background-color: black;
+}
+
+#titulo-principal1 {
+    color: red;
+    background-color: yellow;
+}
+
+.contenedor1 {
+    color: red;
+}
+
+.titulo {
+    color: red;
+}
+
+.parrafo {
+    background-color: black;
+}
+
+#titulo-principal2 {
+    font-size: 20px;
+}
+
+.enunciado4 p {
+    color: grey;
+}
